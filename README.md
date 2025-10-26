@@ -1,4 +1,4 @@
-![ACM](Images/image1.jpg)
+![ACM](Images/image2.jpg)
 
 # Adaptive Curriculum Model
 Adaptive Curriculum Model
